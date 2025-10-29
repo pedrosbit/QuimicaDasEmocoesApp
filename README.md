@@ -1,13 +1,20 @@
 # 🧪 A Química das Emoções
 
-**A Química das Emoções** é um aplicativo educativo que busca unir ciência e sensibilidade, explorando como as emoções humanas estão ligadas aos processos químicos do nosso corpo.  
+**A Química das Emoções** é um aplicativo educativo e inclusivo que tem como objetivo **tornar o ensino da Química mais acessível e acolhedor para todos os alunos**.  
+O projeto busca mostrar que a ciência pode ser sentida, vivida e compreendida de forma simples, humana e emocional.
 
-O projeto foi desenvolvido com o objetivo de aproximar o conhecimento científico do cotidiano dos alunos, mostrando que a química vai muito além dos laboratórios — ela está presente em cada sentimento, pensamento e experiência que vivemos.
+---
+
+## 💡 Propósito
+
+O aplicativo foi criado para **promover a inclusão dentro do ambiente escolar**, permitindo que estudantes com diferentes formas de aprendizado possam se conectar com a Química de um jeito envolvente e acessível.  
+Com recursos interativos e uma linguagem leve, **A Química das Emoções** transforma conceitos científicos em experiências que despertam empatia, curiosidade e autoconhecimento.
+
 ---
 
 ## 🏫 Sobre o Projeto
 
-Este aplicativo foi criado na **Escola Estadual de Ensino Médio Farroupilha**, como parte de um projeto interdisciplinar que integra ciência, tecnologia e arte.  
+Este aplicativo foi desenvolvido na **Escola Estadual de Ensino Médio Farroupilha**, como parte de uma iniciativa educacional voltada à inclusão e ao uso da tecnologia como ferramenta de aprendizado significativo.
 
 👨‍💻 **Desenvolvido por:** Pedro Severgnini Bittencourt  
 📍 **Instituição:** Escola Estadual de Ensino Médio Farroupilha  
@@ -19,7 +26,3 @@ Este aplicativo foi criado na **Escola Estadual de Ensino Médio Farroupilha**, 
 Você pode baixar o aplicativo na Google Play Store clicando no ícone abaixo:
 
 [<img alt="Disponível no Google Play" src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" width="200"/>](https://play.google.com/store/apps/details?id=SEU.PACOTE.AQUI)
-
----
-
-### 🌟 “A ciência das emoções é a química da alma.”  

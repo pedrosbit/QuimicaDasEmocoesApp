@@ -3,14 +3,6 @@
 **A Química das Emoções** é um aplicativo educativo que busca unir ciência e sensibilidade, explorando como as emoções humanas estão ligadas aos processos químicos do nosso corpo.  
 
 O projeto foi desenvolvido com o objetivo de aproximar o conhecimento científico do cotidiano dos alunos, mostrando que a química vai muito além dos laboratórios — ela está presente em cada sentimento, pensamento e experiência que vivemos.
-
----
-
-## 📖 História
-
-O aplicativo apresenta uma pequena e inspiradora história sobre **Farroupito**, um personagem simbólico que conduz o usuário por uma jornada de autoconhecimento e aprendizado.  
-Durante essa aventura, Farroupito descobre que cada emoção — alegria, tristeza, medo, amor — é resultado de reações químicas fascinantes que acontecem dentro de nós.  
-
 ---
 
 ## 🏫 Sobre o Projeto
